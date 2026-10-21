@@ -1,0 +1,92 @@
+project:
+  type: book
+  output-dir: docs
+  resources:
+    - assets/
+    - "*.png"
+    - "*.svg"
+    - "!docs/**"
+
+book:
+  title: "DECISION MAKING AND PROBLEM SOLVING IN EXTENSION ORGANISATIONS"
+  subtitle: "Course notes for the Post Graduate Diploma in Agricultural Extension Management (PGDAEM)"
+  favicon: images/cover.png
+  author:
+    - Smija P K
+  date: "2026-10-21"
+  date-format: "D MMMM YYYY"
+  reader-mode: true
+  page-navigation: true
+  back-to-top-navigation: true
+  search: true
+  site-url: https://kaumelon.github.io/pgdaem-spk1/
+  repo-url: https://github.com/KAUMELON/pgdaem-spk1
+  image: images/cover.png
+  image-alt: "Decision Making and Problem Solving in Extension Organisations"
+  open-graph:
+    image: images/cover.png
+    image-alt: "Decision Making and Problem Solving in Extension Organisations"
+  chapters:
+    - index.qmd
+    - preface.qmd
+    - part: "Decision Making"
+      chapters:
+        - decisionMaking.qmd
+        - cognitionRisk.qmd
+        - groupTheories.qmd
+    - part: "Methodologies for Decision Making"
+      chapters:
+        - dmMethods.qmd
+    - part: "Problem Solving"
+      chapters:
+        - problemSolving.qmd
+        - psModels.qmd
+        - statTools.qmd
+  appendices:
+    - references.qmd
+  twitter-card:
+    image: images/cover.png
+    image-alt: "Decision Making and Problem Solving in Extension Organisations"
+    card-style: summary_large_image
+  sidebar:
+    logo: images/cover.png
+  page-footer:
+    border: true
+    left: |
+        Published on **MeLON** (Module for e-Learning & Online Notes)<br>Kerala Agricultural University
+    center: |
+        ![](/images/melon.png){style='width: auto; height: 90px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;' fig-alt='MeLON logo'}
+    right: |
+        Licenced under [CC-BY-NC-ND 4.0 Int License](https://creativecommons.org/licenses/by-nc-nd/4.0/) <a href="http://creativecommons.org/licenses/by-nc-nd/4.0/">![](/images/cclogo.png){style='width: auto; height: 35px; padding-left: 10px; padding-right: 10px; margin-bottom:5px;'}</a>
+        Built with <a href="https://quarto.org/">Quarto</a>
+  cover-image: images/cover.png
+
+bibliography:
+  - book.bib
+csl: apa.csl
+link-citations: true
+
+format:
+  html:
+    filters:
+      - compact-tables.lua
+    include-in-header: table-math-config.html
+    include-after-body:
+      text: |
+        <script defer src="/pgdaem-spk1/assets/melon-tracker.js" data-book="pgdaem-decision-making"></script>
+    mainfont: Georgia
+    monofont: Fira Code
+    highlight-style: arrow
+    number-sections: true
+    monobackgroundcolor: "#F7F7F7"
+    theme:
+      light:
+        - theme.css
+        - theme.scss
+        - lumen
+      dark:
+        - darktheme.css
+        - darktheme.scss
+        - slate
+
+number-depth: 3

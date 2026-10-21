@@ -1,0 +1,208 @@
+# Problem solving in agriculture and extension organisations {#sec-ps}
+
+Problem solving is central to human activity in every field, but it takes on particular significance in agriculture and extension work, where poor decisions can affect livelihoods, food security and environmental sustainability. This chapter defines a problem, examines the problems extension workers face, sets out process frameworks for agricultural problem solving, and distinguishes problem solving from decision making.
+
+## What is a problem? {#sec-problem}
+
+@linhart1976 defines a problem as an interactive relation between a subject and its surroundings, incorporating an inner conflict that is resolved by searching for transitions from an initial condition to a final, desired condition (the goal). A problem is therefore not merely a technical obstacle — it is a relational phenomenon arising in the gap between a person's current capacity and the demands of their situation.
+
+### Three core properties of a problem
+
+@linhart1976 identifies three core properties of a problem:
+
+- **Inner conflict as driver:** the tension between current and desired states is not merely intellectual — it is motivational. In agricultural extension, unresolved problems such as crop losses or declining incomes are the motivational drivers for seeking new approaches.
+- **Conflict creates activity:** without the tension of an unsolved problem there is no impetus to act. The problem's inner conflict is the engine of purposeful behaviour.
+- **Transcending the given:** the problem solver must exceed what is directly stated, searching beyond the current situation and the available information. This distinguishes genuine problem solving from routine task execution.
+
+### The problematic situation {#sec-problematic-situation}
+
+@linhart1976 defines the **problematic situation** as the totality of conditions that determine the formation and specific characteristics of a problem. These conditions may be static or dynamic, and their nature fundamentally shapes what kinds of solutions are possible (@tbl-static-dynamic).
+
+: Static and dynamic problematic situations {#tbl-static-dynamic .bordered}
+
+| Aspect | Static problematic situation | Dynamic problematic situation |
+|:-------|:-----------------------------|:------------------------------|
+| Definition | Conditions remain stable during problem solving | Conditions change during problem solving due to external influences |
+| Nature | Predictable, closed system | Unpredictable, open system |
+| Example | Solving a mathematical puzzle | Managing a flood-affected paddy field |
+| Strategy | Single, planned solution pathway | Continuous adaptation; flexible, iterative strategies |
+| Challenge | May not reflect real-world agricultural complexity | Requires ongoing monitoring; solutions may become obsolete |
+
+::: {.callout-important title="Key insight"}
+In agriculture, most problems are **dynamic** rather than static. Rainfall, pest pressure, soil fertility, market prices and policy environments change simultaneously. Effective agricultural problem solving must be adaptive, iterative and grounded in ongoing observation.
+:::
+
+### Features of dynamic problem solving
+
+The difficulties of acting in complex, changing situations have been widely documented [see @dorner1997]. In agriculture, dynamic problem solving has the following features:
+
+- **Change over time:** problem conditions evolve continuously — a minor pest outbreak can escalate rapidly, and a drought can become a food security crisis within a season.
+- **External influences:** agricultural problems are shaped by natural forces, market dynamics, policy environments and technological change — none of which extension workers control.
+- **Limited control:** practitioners can often only respond to changes rather than prevent them, making adaptive capacity as important as pre-planned solutions.
+- **Ongoing monitoring:** continuous observation and adjustment are required; static plans rarely survive contact with actual conditions unchanged.
+- **Positive potential:** dynamic change occasionally reveals unexpected opportunities — late rains saving a wilting crop, or price spikes making a previously unviable crop profitable.
+
+## Problem solving in extension organisations {#sec-ps-ext}
+
+### The challenge for extension workers
+
+Extension workers serve as the bridge between scientific knowledge systems and farming communities, operating simultaneously in institutional, social, technical and political domains [see @swanson2010]. As environments change rapidly — driven by technology, climate change, market liberalisation and shifting government priorities — the problems extension workers face become more complex and less predictable. At its core, a problem exists when an individual has a goal but lacks a clear method to achieve it [@newell1972]. This distinguishes genuine problem solving from the routine application of learned procedures.
+
+### The five-step problem-solving process {#sec-five-step}
+
+A widely used sequential framework sets out five steps [@bormann1988]:
+
+1. **Define the problem clearly:** describe the gap between the current and desired situation in specific, observable terms without implying solutions.
+2. **Formulate goals and criteria:** establish what a good solution looks like before generating options. Criteria anchor the subsequent evaluation process.
+3. **Generate hypothetical solutions:** produce multiple candidate solutions without premature evaluation. Quantity and variety at this stage improve the eventual quality of the choice.
+4. **Collect and analyse data:** gather evidence that distinguishes between candidate solutions and confirms or disconfirms hypothesised causes.
+5. **Test solutions against criteria:** evaluate each candidate, select the best fit, implement and monitor.
+
+### Problems of county extension agents: the West Virginia survey
+
+A statewide survey of 48 extension agents across 38 counties of West Virginia in 1965 identified 126 problems (@tbl-west-virginia). The two most frequently cited — motivating leaders (18%) and motivating the public (16%) — are both **people-problems** requiring psychological and sociological insight, not technical knowledge alone.
+
+: Problems reported by county extension agents in West Virginia (1965) {#tbl-west-virginia .bordered}
+
+| Problem area | Frequency (%) |
+|:-------------|:-------------:|
+| Motivating leaders | 18 |
+| Motivating public support and participation | 16 |
+| Adapting to changing roles; overcoming resistance | 11 |
+| Lacking knowledge (local resources, leadership skills) | 11 |
+| Establishing contacts with new groups | 10 |
+| Managing conflicts with other agencies | 9 |
+| Determining programme priorities | 6 |
+| Managing insufficient time | 6 |
+| Limited budgets and facilities | 6 |
+| Maintaining a positive public image | 4 |
+| Meeting supervisor expectations | 3 |
+
+### The importance of problem definition {#sec-problem-definition}
+
+How a problem is framed determines what solutions appear possible. Albert Einstein is often quoted as observing that the formulation of a problem is more essential than its solution. Extension workers must therefore invest time in definition before rushing to solutions.
+
+::: {.callout-tip title="The power of reframing"}
+**Original framing:** 'How can we reach young homemakers?' — this focuses on the extension worker's logistics.
+
+**Reframed:** 'How can we free up time for young homemakers to attend meetings?' — this reveals the real barrier: childcare.
+
+**Implication:** providing childcare during meetings immediately becomes the solution.
+
+**Rule:** frame problems in terms of controllable elements. 'Not enough time' is not actionable; task prioritisation and delegation are.
+:::
+
+### People-problems and the danger of mental set {#sec-mental-set}
+
+Working with human attitudes and motivations is fundamentally different from diagnosing a crop disease. Extension workers need psychological and sociological concepts as analytical tools, not just agricultural expertise [@vandenban1996].
+
+**Mental set** — the tendency to apply familiar thinking patterns even when they no longer fit — is a major obstacle. Classic riddles illustrate this: 'A farmer has 20 cows. All but 13 die. How many remain?' (Answer: 13, not 7.) Extension workers must guard against applying solutions that worked in one context to structurally different problems. Strategies for overcoming mental set include:
+
+- **Asking clarifying questions:** 'What exactly is the problem?' 'What are we assuming that we have not verified?'
+- **Reasoning by analogy:** how have other fields — health promotion, community organising — solved comparable problems of reaching disengaged populations?
+- **Seeking diverse perspectives:** people from different backgrounds hold different mental sets; cross-functional problem definition almost always reveals dimensions any one group would miss [@rogers2003].
+
+## Problem solving: process and framework in agriculture {#sec-ps-agri}
+
+### A systems thinking approach {#sec-systems-thinking}
+
+Agricultural problems are embedded in living systems characterised by complexity, variability and uncertainty. Effective agricultural problem solving must therefore be systematic while remaining flexible enough to accommodate inherent unpredictability. **Systems thinking** — understanding how components interact and how system-level properties emerge from these interactions — provides an essential conceptual foundation [@checkland1981]. Its key principles are:
+
+- **Feedback loops:** actions generate consequences that loop back to influence future conditions. Excess fertiliser increases yield in the short term but degrades soil in the long term — a delayed negative feedback that a narrow analysis would miss.
+- **Emergence:** system-level problems (e.g., declining watershed health) emerge from many individual actions, none of which individually causes the outcome.
+- **Delays:** the consequences of agricultural decisions often appear long after the decision, making causal connections difficult to identify without systematic tracking.
+- **Leverage points:** some interventions produce disproportionately large improvements. Identifying high-leverage points is a core skill in agricultural problem solving [@senge1990].
+
+### The group problem-solving process {#sec-group-ps}
+
+Many agricultural problems require collective, participatory solutions. The five-step group process adapts the general framework to the social dynamics of extension [@adams2009], as shown in @tbl-group-ps.
+
+: The five-step group problem-solving process {#tbl-group-ps .bordered}
+
+| Step | Focus | Output |
+|:-----|:------|:-------|
+| 1. Define | Share observations; describe the current gap without proposing solutions | Problem statement: a single sentence describing the gap, free of solution language |
+| 2. Analyse | Shift from 'what?' to 'why?'; investigate potential causes | Problem question that probes causes more deeply than the problem statement |
+| 3. Generate | Produce multiple candidate solutions without evaluation | Diverse list of options; no premature closure |
+| 4. Evaluate | Compare options against established criteria: effectiveness, feasibility, cost, sustainability | Ranked shortlist; decision made by vote, consensus or weighted scoring |
+| 5. Implement and assess | Plan who does what, by when and with what resources; pilot test where possible | Implementation plan with clear success measures and review schedule |
+
+### Problem-solving strategies {#sec-ps-strategies}
+
+The main problem-solving strategies and their agricultural applications are listed in @tbl-ps-strategies.
+
+: Problem-solving strategies and their agricultural applications {#tbl-ps-strategies .bordered}
+
+| Strategy | Description | Agricultural application |
+|:---------|:------------|:-------------------------|
+| Trial and error | Systematically try different solutions until one works | Testing pest control methods sequentially until one proves effective |
+| Algorithm | A step-by-step procedure guaranteed to produce the correct result | Soil testing protocol with standardised sampling, processing and interpretation |
+| Heuristic | A rule of thumb that usually produces good results without exhaustive analysis | 'When yields drop, start with a soil test' — directs diagnostic effort efficiently |
+| Working backwards | Start from the desired outcome and identify the required prior steps | 'To achieve 3 t/ha, what nutrient levels, plant population and irrigation are required?' |
+| Analogy | Apply a solution from one context to a structurally similar problem | Adapting integrated pest management from one crop to a related crop facing a similar pest complex |
+
+## Problem solving and decision making: key differences {#sec-ps-vs-dm}
+
+Problem solving and decision making are related but distinct processes. Decision making is embedded within the larger process of problem solving — specifically during the 'evaluate and choose' stage. Problem solving asks *'what is wrong and how can it be fixed?'*; decision making asks *'which of these available options should I choose?'* Decision making without prior problem solving risks selecting solutions to the wrong problem; problem solving without rigorous decision making risks an inability to commit to a course of action [see @march1994]. The differences are summarised in @tbl-ps-vs-dm.
+
+: Problem solving and decision making compared {#tbl-ps-vs-dm .bordered}
+
+| Dimension | Problem solving | Decision making |
+|:----------|:----------------|:----------------|
+| Core question | What is wrong and why? How can the situation be improved? | Which available option best achieves the desired outcome? |
+| Focus | Diagnosing root causes and developing solutions | Evaluating and selecting among defined alternatives |
+| Scope | Broader — requires investigation and solution development | Narrower — assumes the problem is understood and options are known |
+| Timing | Unfolds over extended periods as causes are investigated | Requires a focused, timely commitment to one course of action |
+| Information | May require new data collection to understand the problem | Draws on existing information to compare alternatives |
+| Outcome | Eliminates or reduces the root cause | Selects the best available option from those under consideration |
+
+### Programmed and non-programmed decisions {#sec-programmed}
+
+@simon1960 distinguishes two kinds of decisions:
+
+- **Programmed decisions:** routine, repetitive decisions for which standard procedures already exist — for example, an extension agent following an established pesticide application recommendation protocol.
+- **Non-programmed decisions:** novel, complex decisions requiring original analysis and judgement — for example, deciding how to respond to a newly emerged plant disease with no established recommendation.
+
+Effective extension managers invest appropriate analytical effort and resist applying programmed responses to non-programmed situations — a temptation strengthened by the human preference for fast, intuitive judgement [@kahneman2011].
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. Linhart describes the tension between current and desired states as the __________ conflict of a problem.
+2. The totality of conditions that determine the formation of a problem is called the __________ situation.
+3. Managing a flood-affected paddy field is an example of a __________ problematic situation.
+4. In the West Virginia survey, the most frequently reported problem was motivating __________.
+5. The tendency to apply familiar thinking patterns even when they no longer fit is called mental __________.
+6. Interventions that produce disproportionately large improvements in a system are called __________ points.
+7. Routine decisions for which standard procedures already exist are called __________ decisions.
+
+### Short-answer questions {.unnumbered}
+
+1. Define a problem according to Linhart. Explain its three core properties.
+2. Distinguish between static and dynamic problematic situations with agricultural examples.
+3. Explain the five-step problem-solving process.
+4. Why is problem definition important? Illustrate with the example of reframing.
+5. What is mental set? How can extension workers overcome it?
+6. Explain the key principles of systems thinking in agricultural problem solving.
+7. Distinguish between problem solving and decision making.
+
+### Quick revision {.unnumbered}
+
+- Problem (Linhart) → inner conflict between initial and goal states; drives activity; requires transcending the given.
+- Problematic situation → static (closed, predictable) or dynamic (open, changing); farm problems are mostly dynamic.
+- Five-step process (Bormann and Bormann) → define, set criteria, generate, collect data, test.
+- West Virginia survey → the top problems were people-problems (motivating leaders and the public).
+- Reframing → frame problems in terms of controllable elements.
+- Mental set → overcome with clarifying questions, analogy and diverse perspectives.
+- Systems thinking → feedback loops, emergence, delays, leverage points.
+- Strategies → trial and error, algorithm, heuristic, working backwards, analogy.
+- Programmed vs non-programmed decisions (Simon).
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` inner `2.` problematic `3.` dynamic `4.` leaders `5.` set `6.` leverage `7.` programmed
+:::

@@ -1,0 +1,141 @@
+# Group decision making and theories of decision making {#sec-group}
+
+This chapter examines why and how groups make decisions in extension organisations, the strategies available to extension managers, and the main theories that explain how farmers and organisations actually decide.
+
+## Why group decision making matters in extension {#sec-group-why}
+
+Many of the most consequential decisions in agricultural extension — programme prioritisation, community intervention design, technology assessment — involve multiple stakeholders with diverse interests, knowledge bases and risk tolerances. Group decision-making processes, when well structured, harness this diversity to produce more robust decisions and generate the shared ownership essential for implementation [@leeuwis2004].
+
+## Individual and group decision making {#sec-group-vs}
+
+The relative merits of individual and group decision making are compared in @tbl-ind-group-dm.
+
+: Individual and group decision making compared {#tbl-ind-group-dm .bordered}
+
+| Factor | Individual decision making | Group decision making |
+|:-------|:---------------------------|:----------------------|
+| Information | Limited to the individual's knowledge and experience | Draws on the combined knowledge of all members |
+| Time | Generally faster; no coordination required | Slower; requires negotiation and coordination |
+| Acceptance | May face resistance from those not involved | Greater legitimacy and buy-in from stakeholders who participated |
+| Risk of error | Subject to individual cognitive biases and blind spots | Mutual error-correction; diverse perspectives reduce bias |
+| Best for | Well-defined technical decisions; time-critical situations | Complex, multi-stakeholder decisions requiring broad acceptance |
+
+## Decision-making strategies in extension organisations {#sec-group-strategies}
+
+Extension managers can choose among four broad decision-making strategies, depending on the situation (@tbl-strategies).
+
+: Decision-making strategies in extension organisations {#tbl-strategies .bordered}
+
+| Strategy | Description | When to use | Extension example |
+|:---------|:------------|:------------|:------------------|
+| Authoritative | Manager decides alone | Crisis or time-sensitive situations | Emergency response to a pest outbreak |
+| Consultative | Manager decides after seeking input from others | Moderate complexity; stakeholder buy-in needed | Programme priority setting with farmer groups |
+| Collaborative / participatory | Group decides together | Complex, multi-stakeholder situations | Designing a community extension programme |
+| Delegative | Decision handed to a subordinate or farmer group | Routine decisions; capacity-building context | Farmer groups deciding on input procurement |
+
+## Groupthink and its prevention {#sec-groupthink}
+
+**Groupthink** occurs when the desire for harmony or conformity in a group overrides realistic appraisal of alternatives [@janis1982]. Its symptoms include an illusion of invulnerability, collective rationalisation, pressure on dissenters and self-censorship. Prevention strategies include explicitly assigning a 'devil's advocate' role, inviting external perspectives, allowing anonymous idea submission, and requiring each member to critically evaluate proposals before the final meeting.
+
+## Theories of decision making {#sec-dm-theories}
+
+### Rational Choice Theory {#sec-rct}
+
+Rational Choice Theory (RCT) holds that an actor identifies alternative actions, determines their consequences and chooses the option that optimally satisfies their preferences — specifically, the option with the highest expected utility [@arrow1951]. Its meta-theoretical foundation is **methodological individualism**: social facts result from the interaction and aggregation of individual rational actors [@boudon1999]. In farming, the primary objective is typically taken to be income maximisation [@edwardsjones2006].
+
+::: {.callout-tip title="Case study: Organic farming as rational choice"}
+@best2009 conducted a postal survey of 657 farmers in western Germany to test a rational choice model of organic farming adoption using Subjective Expected Utility (SEU) theory.
+
+**Result:** Subjectively expected utility explained the adoption decision well. Non-tangible consequences (daily working conditions, identity) were as relevant as financial returns.
+
+**Implication:** Extension advisers must present technologies in terms of the full range of subjective values that farmers hold, not only economic returns.
+:::
+
+### Bounded rationality {#sec-bounded}
+
+H. A. Simon (Nobel Prize, 1978) introduced **bounded rationality** as a departure from RCT. Decision makers are constrained by limited information, limited cognitive processing capacity and limited time. As a result, they tend to **satisfice** — choosing options that are 'good enough' relative to an aspiration threshold — rather than optimise [@simon1955]. Studies consistently show that bounded rationality provides a more realistic description of actual farmer decision making than perfect rationality [@wens2020].
+
+#### Satisficing
+
+The satisficing heuristic combines 'satisfy' and 'suffice'. Rather than pursuing the absolute best option, the decision maker searches sequentially through alternatives and stops when one meets the aspiration threshold. For example, a household evaluating livelihood options stops searching when the first option guarantees at least 1,830 calories per person per day — the minimum food security threshold.
+
+#### Fast and frugal decision-tree heuristics
+
+Bounded rationality is also expressed through **fast and frugal decision trees** — simplified, rule-based methods that evaluate specific criteria in a predetermined sequence [@gigerenzer2001]. Decision makers consider only selected pieces of information, opting for efficient shortcuts rather than exhaustive analysis. These heuristics are **ecologically rational** — they perform well because they are adapted to the statistical structure of their natural decision environment.
+
+### Theory of Planned Behaviour {#sec-tpb}
+
+The Theory of Planned Behaviour (TPB) proposes that behaviour is determined by behavioural intentions, which are in turn shaped by three components [@ajzen1991] (@fig-tpb):
+
+- **Attitude:** a positive or negative evaluation of performing the behaviour;
+- **Subjective norms:** perceived social pressure from important others; and
+- **Perceived behavioural control:** perception of the ease or difficulty of performing the behaviour.
+
+```{mermaid}
+%%| label: fig-tpb
+%%| fig-cap: "Components of the Theory of Planned Behaviour (after Ajzen, 1991)."
+flowchart LR
+  A[Attitude] --> I[Behavioural<br>intention]
+  N[Subjective<br>norms] --> I
+  C[Perceived<br>behavioural control] --> I
+  I --> B[Behaviour]
+  C -.-> B
+```
+
+TPB has been widely applied in agricultural extension research to predict farmers' adoption intentions for new technologies and conservation practices.
+
+### Diffusion of Innovations theory {#sec-diffusion}
+
+@rogers2003 conceptualises technology adoption as a decision-making process unfolding across five stages: **knowledge, persuasion, decision, implementation and confirmation**. Farmers are classified as innovators, early adopters, early majority, late majority or laggards based on adoption timing. Extension agents must understand the characteristics and information needs of each adopter category to design appropriate communication and advisory strategies.
+
+### Theories of decision making compared
+
+The main theories are compared in @tbl-theories.
+
+: Theories of decision making and their agricultural applications {#tbl-theories .bordered}
+
+| Theory | Core assumption | Decision behaviour | Agricultural example |
+|:-------|:----------------|:-------------------|:---------------------|
+| Rational choice [@arrow1951] | Full information; utility maximisation | Choose the option with the highest expected utility | Farmer calculates the expected profit from each variety and selects the highest |
+| Bounded rationality [@simon1955] | Limited information; satisficing | Choose a 'good enough' option meeting an aspiration threshold | Farmer chooses the first variety that meets a minimum yield threshold |
+| Prospect theory [@kahneman1979] | Loss aversion; reference-point evaluation | Weight losses more heavily than equivalent gains | Resistance to new practices despite expected yield gains |
+| Theory of planned behaviour [@ajzen1991] | Intentions driven by attitude, norms and control | Behaviour predicted by intention, which is shaped by social and psychological factors | Extension training targets both farmer attitude and community norms around a new practice |
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. The decision-making strategy in which the manager decides alone is called __________.
+2. Groupthink was described by __________.
+3. Assigning a devil's __________ role is a strategy to prevent groupthink.
+4. The meta-theoretical foundation of Rational Choice Theory is methodological __________.
+5. Choosing an option that is 'good enough' rather than the best is called __________.
+6. In the Theory of Planned Behaviour, perceived social pressure from important others is called subjective __________.
+7. Rogers' innovation-decision process has __________ stages.
+
+### Short-answer questions {.unnumbered}
+
+1. Compare individual and group decision making.
+2. Describe the four decision-making strategies available to extension managers, with an example of each.
+3. What is groupthink? How can it be prevented in extension organisations?
+4. Explain bounded rationality and satisficing with an agricultural example.
+5. Explain the three components of the Theory of Planned Behaviour.
+6. What lesson does Best's (2009) study of organic farming hold for extension advisers?
+
+### Quick revision {.unnumbered}
+
+- Group decisions → more information and buy-in; slower; better for complex, multi-stakeholder issues.
+- Strategies → authoritative, consultative, collaborative/participatory, delegative.
+- Groupthink (Janis) → conformity overrides appraisal; prevent with devil's advocate, outsiders, anonymity.
+- Rational choice → highest expected utility; methodological individualism.
+- Bounded rationality (Simon) → satisficing; fast and frugal heuristics (Gigerenzer).
+- TPB (Ajzen) → attitude + subjective norms + perceived behavioural control → intention → behaviour.
+- Diffusion (Rogers) → knowledge, persuasion, decision, implementation, confirmation; five adopter categories.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` authoritative `2.` Janis `3.` advocate `4.` individualism `5.` satisficing `6.` norms `7.` five
+:::

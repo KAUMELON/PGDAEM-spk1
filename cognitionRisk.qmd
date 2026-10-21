@@ -1,0 +1,108 @@
+# Cognition and decision making under certainty, risk and uncertainty {#sec-cognition}
+
+This chapter examines the mental structures and functions that underlie farmers' decisions, three approaches to operational decision making, and the theories and decision rules that apply when outcomes are certain, risky or uncertain.
+
+## Cognitive structures and functions in agricultural decision making {#sec-cog-functions}
+
+Effective agricultural decision making involves internal **cognitive structures** — the mental representations that store farmers' beliefs, goals, plans and preferences. These structures are actively manipulated by several higher-level cognitive functions [@jager2000].
+
+### Core cognitive functions
+
+- **Attention and perception:** farmers decide what to focus on within their production system, identifying which information is most relevant and how best to access it.
+- **Sense-making and interpretation:** by interpreting cues — changes in weather, crop health or market signals — farmers recognise abnormal patterns, form beliefs or predictions, and draw parallels with previous experiences [@weick1995].
+- **Memory and recall:** remembering critical facts, events and sequences helps farmers compare past outcomes with current scenarios, forming the basis for future decisions.
+- **Goal formulation and selection:** farmers set specific objectives based on their assessment of the situation, which then guides subsequent decision-making steps [@bratman1987].
+- **Plan generation and adaptation:** farmers generate or adjust plans that align with their goals, considering strategies that can be implemented under current circumstances.
+- **Plan evaluation through mental simulation:** before executing a plan, farmers mentally simulate its outcomes — essentially assessing the potential success of the strategy [@klein1998].
+- **Action selection:** a final action is chosen based on the plans developed, existing goals and current preferences.
+
+## Three approaches to operational decision making {#sec-cog-approaches}
+
+### The Decision Ladder
+
+The **Decision Ladder (DL)** visually maps how decision makers progress through stages when solving a problem [@rasmussen1976]. Nodes represent specific steps in the process; links illustrate the logical flow between steps — from analysing the situation, through defining a target and planning a course of action, to executing it. Experts may skip certain steps using heuristics, allowing quicker, more efficient decisions.
+
+### Recognition-Primed Decision making
+
+The **Recognition-Primed Decision (RPD)** model describes how experienced individuals make rapid yet effective decisions in real-world, high-pressure environments [@klein1998]. Rather than evaluating multiple options through detailed comparisons, experienced decision makers recognise patterns from past experience and apply previously successful solutions. Its key aspects are:
+
+- **Pattern recognition:** a mental 'library' of situations;
+- **Situational awareness:** perceiving key details and predicting how the situation may evolve; and
+- **Mental simulation:** mentally testing actions to predict outcomes when an immediate solution is not clear.
+
+### The Belief–Desire–Intention (BDI) model
+
+The BDI model posits that deliberation and means–ends reasoning operate through three components [@bratman1987]:
+
+- **Beliefs:** the agent's perception of the world, continuously updated through sensory input;
+- **Desires:** the agent's goals — the driving force behind decision making; and
+- **Intentions:** specific commitments to actions selected from among desires, focusing cognitive resources on a feasible course of action.
+
+The framework operates dynamically, iteratively generating and refining goals, formulating plans and guiding action selection.
+
+## Decision making under certainty {#sec-certainty}
+
+Decision making under certainty occurs when farmers or agricultural managers have complete knowledge of the outcomes of their decisions. Outcomes are predictable, information is reliable and risk is low [@hardaker2015]. Examples include irrigation management based on well-established scheduling, and crop selection in controlled greenhouse environments where temperature, humidity and nutrients are managed to ensure predictable yields.
+
+### Theories of decision making under certainty
+
+- **Rational choice theory:** individuals make logical, informed decisions by selecting the option that maximises benefits and minimises costs [@arrow1951]. Its assumptions are full information, maximisation of utility and consistency. Its limitation is that it does not account for psychological factors, emotions or biases, and it assumes perfect information, which is rare in practice. The theory is discussed further in @sec-rct.
+- **Linear programming and decision trees:** mathematical models used to determine the best course of action given resource constraints [@hardaker2015]. Linear programming maximises profit or minimises cost; decision trees provide a graphical representation of decision paths with certain outcomes (see @sec-decision-tree).
+
+## Decision making under risk {#sec-risk}
+
+Under risk, outcomes are not certain but their probabilities can be estimated. The key framework is **Expected Utility Theory** [@vonneumann1944], which holds that rational decision makers choose the option with the highest expected utility — the probability-weighted sum of utility values across all possible outcomes.
+
+## Decision making under uncertainty {#sec-uncertainty}
+
+Under uncertainty, outcomes cannot be estimated with known probabilities. Decision rules commonly applied include:
+
+- **Maximin:** maximise the minimum possible payoff (the most conservative rule);
+- **Maximax:** maximise the maximum possible payoff (the most optimistic rule); and
+- **Minimax regret:** minimise the maximum possible regret from a suboptimal choice.
+
+In agriculture, uncertainty arises from erratic rainfall, new pest species, volatile markets and policy changes.
+
+## Prospect theory {#sec-prospect}
+
+Prospect Theory provides a behavioural alternative to Expected Utility Theory, demonstrating that people evaluate outcomes relative to a reference point (e.g., current income) rather than in absolute terms [@kahneman1979]. Losses loom approximately twice as large as equivalent gains — a phenomenon known as **loss aversion**. This explains why farmers may resist adopting practices with higher expected yields if adoption carries any risk of performing worse than their current practice.
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. The mental representations that store farmers' beliefs, goals, plans and preferences are called cognitive __________.
+2. The Decision Ladder was proposed by __________.
+3. In the Recognition-Primed Decision model, experienced decision makers rely on __________ recognition.
+4. In the BDI model, specific commitments to actions selected from among desires are called __________.
+5. Under risk, rational decision makers choose the option with the highest expected __________.
+6. The decision rule that maximises the minimum possible payoff is called __________.
+7. In prospect theory, the tendency for losses to loom larger than equivalent gains is called loss __________.
+
+### Short-answer questions {.unnumbered}
+
+1. Explain the core cognitive functions involved in agricultural decision making.
+2. Describe the Recognition-Primed Decision model and its key aspects.
+3. Explain the Belief–Desire–Intention model with a farm example.
+4. Distinguish between decision making under certainty, risk and uncertainty.
+5. Compare the maximin, maximax and minimax regret decision rules.
+6. How does prospect theory explain farmers' resistance to new practices?
+
+### Quick revision {.unnumbered}
+
+- Cognitive functions → attention, sense-making, memory, goal setting, planning, mental simulation, action selection.
+- Decision Ladder (Rasmussen) → stages from analysing the situation to execution; experts skip steps.
+- RPD (Klein) → pattern recognition + situational awareness + mental simulation.
+- BDI (Bratman) → beliefs, desires, intentions.
+- Certainty → rational choice, linear programming, decision trees.
+- Risk → Expected Utility Theory (von Neumann and Morgenstern).
+- Uncertainty → maximin (conservative), maximax (optimistic), minimax regret.
+- Prospect theory (Kahneman and Tversky) → reference point; losses weigh about twice as much as gains.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` structures `2.` Rasmussen `3.` pattern `4.` intentions `5.` utility `6.` maximin `7.` aversion
+:::

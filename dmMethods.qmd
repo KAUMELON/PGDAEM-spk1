@@ -1,0 +1,156 @@
+# Methodologies for decision making in extension organisations {#sec-methods}
+
+This chapter describes the main methodologies used to structure decisions in agriculture and extension organisations: decision analysis and decision trees, the Delphi technique, brainstorming, the cause-and-effect (fishbone) diagram, data-driven decision making and decision support systems.
+
+## Decision analysis and decision trees {#sec-decision-analysis}
+
+### Decision analysis
+
+**Decision analysis** is the systematic evaluation of alternatives using quantitative and qualitative tools. It involves defining objectives, identifying alternatives, assessing outcomes and selecting the best option [@hardaker2015]. Decision analysis is applied both at farm level — deciding which crop to grow — and at organisational level — determining which extension programme to fund.
+
+### The decision tree {#sec-decision-tree}
+
+A **decision tree** is a visual, tree-shaped diagram that maps decisions, chance events and their possible outcomes. Its key components are:
+
+- **Decision nodes** (squares) — where the decision maker chooses among alternatives;
+- **Chance nodes** (circles) — where outcomes depend on probability;
+- **Branches** — representing decisions or chance outcomes; and
+- **Terminal nodes** — end points showing the final payoff.
+
+### Method
+
+1. Define the decision problem clearly.
+2. Identify all possible decision alternatives.
+3. Identify chance events and assign probabilities.
+4. Assign monetary values or utility scores to each terminal node.
+5. Calculate the **Expected Monetary Value (EMV)**: multiply each probability by its outcome value and sum the products.
+6. Select the decision branch with the highest EMV.
+
+::: {.callout-tip title="Agricultural example: to irrigate or not"}
+A farmer decides whether to irrigate paddy or rely on rainfall (@fig-decision-tree).
+
+- **Irrigation:** cost Rs. 5,000; guaranteed yield of 4 t/ha regardless of rain.
+- **Rainfall:** 60% chance of adequate rain (yield 3.5 t/ha; revenue Rs. 35,000) and 40% chance of drought (yield 1.5 t/ha; revenue Rs. 15,000).
+
+EMV of relying on rainfall = (0.6 × 35,000) + (0.4 × 15,000) = Rs. 21,000 + Rs. 6,000 = **Rs. 27,000**.
+
+At the same price (Rs. 10,000 per tonne), irrigation gives a certain revenue of Rs. 40,000, or **Rs. 35,000** net of its cost. The decision tree allows the farmer to compare the two branches directly; in this example irrigation is the better choice.
+:::
+
+```{mermaid}
+%%| label: fig-decision-tree
+%%| fig-cap: "Decision tree for the irrigation example. The square is the decision node, the circle a chance node, and the rounded boxes are terminal payoffs."
+flowchart LR
+  D[Irrigate paddy?] -->|Irrigate<br>cost Rs. 5,000| T1(["4 t/ha: Rs. 40,000<br>Net Rs. 35,000"])
+  D -->|Rely on rainfall| C((Rain))
+  C -->|Adequate, p = 0.6| T2(["3.5 t/ha: Rs. 35,000"])
+  C -->|Drought, p = 0.4| T3(["1.5 t/ha: Rs. 15,000"])
+  C -.- E["EMV = Rs. 27,000"]
+```
+
+## The Delphi technique {#sec-delphi}
+
+The **Delphi technique** is a structured expert consultation method used to achieve consensus on complex issues through multiple rounds of anonymous questionnaires [@linstone1975]. It is particularly useful when there is no single correct answer and when expert judgement is required to address a question on which objective data are scarce.
+
+### Method
+
+1. Define the problem or question clearly.
+2. Select a panel of relevant experts (farmers, scientists, extension specialists, policymakers).
+3. Distribute the Round 1 questionnaire anonymously.
+4. Analyse responses and identify areas of agreement and disagreement.
+5. Prepare a feedback summary and distribute the Round 2 questionnaire.
+6. Repeat rounds until consensus emerges or positions stabilise.
+7. Compile a final report reflecting consensus or documented divergence.
+
+### Advantages and limitations
+
+The strengths and weaknesses of the technique are summarised in @tbl-delphi.
+
+: Advantages and limitations of the Delphi technique {#tbl-delphi .bordered}
+
+| Advantages | Limitations |
+|:-----------|:------------|
+| Anonymity reduces social pressure and dominant-voice effects | Time-consuming across multiple rounds |
+| Structured feedback fosters reflection and refinement | Requires skilled facilitation |
+| Useful when no objective data exist | Consensus may mask genuine diversity of opinion |
+
+## Brainstorming in decision making {#sec-brainstorm-dm}
+
+Brainstorming — covered in detail as a problem-solving technique in @sec-brainstorming — is also used as a decision-making technique when generating decision alternatives, identifying barriers to adoption and developing extension programme ideas. Its core rules are to defer judgement, encourage wild ideas, build on others' ideas and go for quantity [@osborn1953]. In extension it is used for identifying new programme approaches, solving field problems encountered by agents, staff planning and annual review sessions, and identifying barriers to technology adoption.
+
+## Cause-and-effect (fishbone) diagram in decision making {#sec-fishbone-dm}
+
+The fishbone diagram — also covered as a problem-solving tool in @sec-fishbone — serves a complementary role in decision making by structuring the diagnosis of *why* a decision problem exists [@ishikawa1990]. Using the **6M framework** (Man, Machine, Method, Material, Measurement, Mother Nature), it organises potential causes systematically before decision alternatives are generated. In extension it is used for diagnosing why a technology adoption programme underperformed, investigating causes of low crop yield, analysing reasons for poor attendance at training programmes, and improving the quality of service delivery.
+
+## Data-driven decision making (DDDM) {#sec-dddm}
+
+**Data-driven decision making (DDDM)** refers to basing decisions on the analysis of data rather than on intuition alone [@jones2017]. In agricultural extension, DDDM enables evidence-based programme design, resource allocation and performance monitoring. The main data sources in agricultural extension are:
+
+- farm surveys and household data;
+- remote sensing and satellite imagery;
+- weather and climate data from meteorological agencies;
+- market price data and value chain analysis; and
+- extension programme monitoring and evaluation reports.
+
+Decision support built on these sources may be data-driven or document-driven (@tbl-dss-types).
+
+: Data-driven and document-driven decision support systems {#tbl-dss-types .bordered}
+
+| Feature | Data-driven DSS | Document-driven DSS |
+|:--------|:----------------|:--------------------|
+| Primary input | Quantitative data; databases | Reports; policy documents; research publications |
+| Analysis type | Statistical; computational | Qualitative; interpretive |
+| Strengths | Precision; scalability; real-time updates | Contextual richness; policy relevance |
+| Example tools | DSSAT; AquaCrop; remote sensing platforms | Knowledge management systems; digital libraries |
+
+## Decision support systems (DSS) in agriculture {#sec-dss}
+
+A **decision support system (DSS)** is an information system that integrates databases, simulation models and user interfaces to assist farmers, extension agents and policymakers in making informed decisions [@jones2017]. Some widely used systems are listed in @tbl-dss.
+
+: Selected decision support systems used in agriculture {#tbl-dss .bordered}
+
+| System | Developer | Primary function |
+|:-------|:----------|:-----------------|
+| DSSAT | University of Florida / ICASA | Crop simulation; yield forecasting; agronomic management |
+| AquaCrop | FAO | Water productivity and irrigation management |
+| SARRA-H | CIRAD | Cereal crop yield forecasting in semi-arid areas |
+| iSAT | IFDC | Integrated soil and agronomic technology recommendations |
+| Digital advisory platforms (e.g., farmer.CHAT) | Various | AI-based personalised extension advisory |
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. In a decision tree, decision nodes are drawn as __________ and chance nodes as circles.
+2. EMV stands for Expected __________ Value.
+3. The Delphi technique achieves consensus through multiple rounds of __________ questionnaires.
+4. The fishbone diagram commonly uses the __________ framework to group causes.
+5. DSSAT, a crop simulation system, was developed by the University of Florida and __________.
+6. AquaCrop, used for water productivity and irrigation management, was developed by __________.
+
+### Short-answer questions {.unnumbered}
+
+1. What is decision analysis? List the components of a decision tree.
+2. Using the irrigation example, show how the EMV of each branch is calculated.
+3. Describe the steps of the Delphi technique. What are its advantages and limitations?
+4. How is the fishbone diagram used in decision making in extension?
+5. What are the main data sources for data-driven decision making in extension?
+6. Distinguish between data-driven and document-driven decision support systems.
+
+### Quick revision {.unnumbered}
+
+- Decision analysis → objectives, alternatives, outcomes, best option.
+- Decision tree → squares (decisions), circles (chance), branches, terminal payoffs; choose the highest EMV.
+- EMV → Σ (probability × outcome value).
+- Delphi (Linstone and Turoff) → anonymous expert rounds with feedback until consensus.
+- Brainstorming (Osborn) → defer judgement, wild ideas, build on others, quantity.
+- Fishbone (Ishikawa) → 6Ms; diagnose *why* before choosing.
+- DDDM → decisions from data; DSS → databases + models + interfaces (DSSAT, AquaCrop, SARRA-H, iSAT).
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` squares `2.` Monetary `3.` anonymous `4.` 6M `5.` ICASA `6.` FAO
+:::

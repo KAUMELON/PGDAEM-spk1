@@ -1,0 +1,111 @@
+# Decision making in agriculture and extension organisations {#sec-dm}
+
+This chapter introduces decision making as a process, examines how decisions are made on farms and in agricultural extension organisations, and classifies agricultural decisions by time horizon, complexity and uncertainty.
+
+## What is decision making? {#sec-dm-what}
+
+Decision making is the cognitive, rational process of selecting the best course of action from multiple alternatives to achieve a specific goal. It involves identifying problems, evaluating options and committing to a path of action [@vandenban1996]. In agriculture, this process is shaped not only by economics but also by personal experience, social influences and access to information.
+
+## The seven-step decision-making process {#sec-dm-steps}
+
+Decision making can be described as a sequence of seven steps (@fig-seven-steps):
+
+1. **Define the problem:** clearly identify the issue requiring resolution or the goal to be achieved.
+2. **Gather relevant information:** collect internal and external data, including market research, expert opinions and past experiences.
+3. **Identify alternatives:** develop a range of possible, actionable solutions or options.
+4. **Weigh the evidence:** evaluate the pros and cons of each alternative, assessing potential risks and benefits.
+5. **Choose the best option:** select the most suitable alternative that best fulfils the objective.
+6. **Take action:** put the chosen plan into action by allocating resources and assigning tasks.
+7. **Review the decision:** evaluate the outcome, analyse consequences and determine whether the problem was resolved.
+
+```{mermaid}
+%%| label: fig-seven-steps
+%%| fig-cap: "The seven-step decision-making process. The review step feeds back into problem definition when the problem is not resolved."
+flowchart LR
+  A[1. Define the<br>problem] --> B[2. Gather<br>information]
+  B --> C[3. Identify<br>alternatives]
+  C --> D[4. Weigh the<br>evidence]
+  D --> E[5. Choose the<br>best option]
+  E --> F[6. Take<br>action]
+  F --> G[7. Review the<br>decision]
+  G -. not resolved .-> A
+```
+
+## Decision making in agriculture {#sec-dm-agri}
+
+Agricultural decision making is a complex process influenced by economic, environmental and social factors. It is a behavioural process in which farmers and agribusiness stakeholders evaluate available information, consider alternatives and choose actions that best align with their goals [@vandenban1996]. Decision making in farm households is not solely the responsibility of the male head — other family members may be involved, and some decisions are made collectively.
+
+One critical decision is whether to adopt new technologies: improved seeds, fertilisers, agrochemicals and mechanisation. Determining profitability requires farm-specific information (such as soil tests) as well as insights from neighbouring farmers who have already adopted.
+
+## Decision making in agricultural extension organisations {#sec-dm-ext}
+
+Decision making in extension organisations is inherently complex because of diverse farmer needs, variable environmental conditions, evolving market dynamics and policy constraints [@leeuwis2004]. An **Agricultural Decision Making Support System (ADSS)** integrates agricultural information systems, simulation models and expert systems to enable extension agents to deliver precise, real-time and customised guidance. Decision support systems are discussed further in @sec-dss.
+
+## Types of decisions in agriculture and extension organisations {#sec-dm-types}
+
+### Classification by time horizon
+
+Decisions can be grouped by the length of time over which they operate [@vandenban1996], as shown in @tbl-time-horizon.
+
+: Classification of agricultural decisions by time horizon {#tbl-time-horizon .bordered}
+
+| Type | Time frame | Characteristics | Examples |
+|:-----|:-----------|:----------------|:---------|
+| Strategic | Long-term (5+ years) | High-impact; shape overall farm direction; involve large investments or structural shifts | Choosing between conventional and organic farming; investing in irrigation infrastructure; succession planning |
+| Tactical | Medium-term (1–5 years) | Optimise operations within a production cycle; more flexible than strategic decisions | Crop rotation for the next season; selecting seed varieties and fertiliser applications; adjusting practices to weather forecasts |
+| Operational | Short-term (days–weeks) | Routine, day-to-day and repetitive; require quick responses | Timing irrigation and pesticide application; hiring seasonal labour; managing daily livestock feeding schedules |
+
+### Classification by complexity
+
+- **Routine (low complexity):** repetitive, everyday decisions made from habit, past experience or standard practice. They require little new information or analysis.
+- **Tactical (moderate complexity):** decisions that require some planning and assessment, affect operations for a season or a few years, and involve evaluating different options.
+- **Strategic (high complexity):** long-term, high-impact decisions that require significant information gathering, expert consultation and analysis, and involve large financial investments with lasting consequences.
+
+### Classification by uncertainty
+
+Decisions also differ in how far their outcomes can be known in advance [@hardaker2015], as shown in @tbl-uncertainty. Decision making under each of these conditions is examined in @sec-cognition.
+
+: Classification of agricultural decisions by level of uncertainty {#tbl-uncertainty .bordered}
+
+| Type | Uncertainty level | Characteristics | Agricultural example |
+|:-----|:------------------|:----------------|:---------------------|
+| Certain decisions | Low | Complete knowledge of outcomes; reliable data; predictable results | Daily livestock feeding; routine fertiliser application |
+| Risk-based decisions | Moderate | Outcomes can be estimated with probabilities; past data and expert advice available | Crop variety selection based on historical weather patterns |
+| Uncertain decisions | High | Outcomes cannot be estimated; unpredictable external variables | Planting under erratic rainfall; adopting a new technology with unknown local performance |
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. Decision making is the process of selecting the best course of action from multiple __________ to achieve a specific goal.
+2. The last step of the seven-step decision-making process is to __________ the decision.
+3. An Agricultural Decision Making Support System integrates information systems, simulation models and __________ systems.
+4. Investing in irrigation infrastructure is an example of a __________ decision.
+5. Timing irrigation and pesticide application is an example of an __________ decision.
+6. Decisions whose outcomes can be estimated with probabilities are called __________-based decisions.
+
+### Short-answer questions {.unnumbered}
+
+1. Define decision making. What factors shape decision making in agriculture?
+2. List and briefly explain the seven steps of the decision-making process.
+3. Why is decision making in extension organisations inherently complex?
+4. Classify agricultural decisions by time horizon, giving two examples of each type.
+5. Distinguish between certain, risk-based and uncertain decisions with agricultural examples.
+
+### Quick revision {.unnumbered}
+
+- Decision making → selecting the best course of action among alternatives to reach a goal.
+- Seven steps → define, gather information, identify alternatives, weigh evidence, choose, act, review.
+- Farm decisions → shaped by economics, experience, social influence and information; often made collectively in the household.
+- ADSS → information systems + simulation models + expert systems for customised advice.
+- By time → strategic (5+ years), tactical (1–5 years), operational (days–weeks).
+- By complexity → routine, tactical, strategic.
+- By uncertainty → certain, risk-based, uncertain.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` alternatives `2.` review `3.` expert `4.` strategic `5.` operational `6.` risk
+:::

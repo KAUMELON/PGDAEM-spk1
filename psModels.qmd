@@ -1,0 +1,200 @@
+# Theories, models and techniques for problem solving {#sec-psmodels}
+
+This chapter presents three classic models of problem solving — Dewey's reflective thinking model, the Socratic model and Newell and Simon's problem space model — followed by the main group techniques used in organisations (Six Thinking Hats and brainstorming) and creativity-based techniques, including lateral thinking and the management of cognitive biases.
+
+## Reflective thinking model {#sec-reflective}
+
+@dewey1933 defined reflective thinking as 'active, persistent, and careful consideration of any belief or supposed form of knowledge in the light of the grounds that support it and the further conclusions to which it leads'. Reflection is not passive pondering but active inquiry: the thinker examines evidence for beliefs, considers alternative interpretations and follows reasoning to its conclusions. The cycle does not end with action — reflection on results feeds back into revised understanding [see also @schon1983].
+
+### Seven-step reflective thinking process
+
+1. **Define the problem:** clearly identify what is problematic. The initial 'felt difficulty' must be precisely articulated before effective analysis can begin.
+2. **Analyse the problem:** examine the available evidence. What is known? What is uncertain? What assumptions are being made?
+3. **Establish criteria:** define what a satisfactory solution would look like before generating options.
+4. **Consider possible solutions:** generate multiple candidates without premature evaluation. Intellectual openness at this stage is essential.
+5. **Decide on a solution:** evaluate candidates against the established criteria and select the solution best supported by evidence and reasoning.
+6. **Implement the solution:** execute the chosen course of action with awareness that implementation generates new information.
+7. **Follow up:** monitor outcomes. Results feed back into a revised understanding of the problem.
+
+## The Socratic model of problem solving {#sec-socratic}
+
+Socrates employed questioning (*elenchus*) to expose contradictions in learners' thoughts and guide them toward deeper understanding. Rather than lecturing, he asked apparently naive questions that forced his interlocutors to examine and revise beliefs they had held unquestioned. This approach — **dialectical thinking** — engages productively with contradictions to synthesise new understanding.
+
+### What Socratic questioning cultivates
+
+- **Clarification:** 'What exactly do you mean?' 'Can you give an example?'
+- **Probing assumptions:** 'What are you assuming?' 'Is this assumption always valid?'
+- **Probing evidence:** 'What evidence supports this?' 'Are there alternative interpretations?'
+- **Exploring implications:** 'If this is true, what follows?' 'What are the consequences?'
+
+### The three-stage dialectical mechanism
+
+1. **Identify contradictions:** recognise where current assumptions clash with observed reality.
+2. **Explore tensions:** understand why the contradictions exist — what different values or information sources underlie each position?
+3. **Synthesise:** build a new, more comprehensive understanding that transcends the original contradiction.
+
+## Newell and Simon's problem space model {#sec-problem-space}
+
+@newell1972 treat problem solving as a **search process** within a problem space — the complete set of possible states and transition pathways between the initial situation and the goal. The model laid the foundation for modern cognitive psychology and artificial intelligence. Its main concepts are illustrated in @tbl-problem-space.
+
+: Concepts of the problem space model with agricultural examples {#tbl-problem-space .bordered}
+
+| Concept | Definition | Agricultural example |
+|:--------|:-----------|:---------------------|
+| Problem space | All possible states and paths from the initial to the goal situation | All combinations of variety, planting date, fertiliser rate and irrigation that could address a yield decline |
+| Initial state | The current, problematic situation | Current yield of 1.2 t/ha with existing practices |
+| Goal state | The desired outcome | Achieve 2.5 t/ha sustainably within two seasons |
+| Operators | Actions that transform one state into another | Change variety; adjust planting density; modify fertilisation |
+| Heuristics | Rules of thumb guiding efficient search | 'Start with the cheapest intervention first' |
+
+### Key heuristic strategies
+
+- **Means–end analysis:** identify the largest gap between the current and goal state and select the operator most likely to reduce it; repeat until the goal is reached.
+- **Hill climbing:** always choose the operator that appears to move most directly toward the goal. This is efficient but prone to local optima.
+- **Working backwards:** begin from the goal state and reason backwards to identify the required prior steps.
+
+### Critiques
+
+- **Well-structured bias:** the model works best for problems with clearly defined states (puzzles, games) and is less effective for ill-structured problems, where goals and operators are ambiguous.
+- **Neglect of emotion and culture:** the model focuses purely on cognition; collective, culturally situated problem solving requires different frameworks.
+
+## Problem-solving techniques in organisations {#sec-org-techniques}
+
+### Six Thinking Hats {#sec-six-hats}
+
+De Bono's [-@debono1985] **Six Thinking Hats** method addresses a fundamental limitation of conventional group discussion: people mix information, emotion, logic and creativity in ways that generate conflict rather than insight. The method separates different types of thinking in time — everyone thinks in the same direction simultaneously, but the direction changes as hats are 'switched'. This **parallel-thinking** approach reduces defensiveness and generates richer analysis (@tbl-six-hats).
+
+: The Six Thinking Hats and their extension applications {#tbl-six-hats .bordered}
+
+| Hat | Thinking mode | Focus | Extension application |
+|:----|:--------------|:------|:----------------------|
+| White | Objective | Data and facts only — no interpretation or judgement | 'What data do we have on farmer adoption rates?' |
+| Red | Emotional | Gut feelings and emotional responses without justification | 'My instinct says this intervention will face strong resistance.' |
+| Black | Critical | Risks, weaknesses and reasons a proposal might fail | 'This requires farmers to invest before they see returns — cash flow is a barrier.' |
+| Yellow | Optimistic | Benefits, advantages and best-case scenarios | 'If this works, it could reduce input costs by 40%.' |
+| Green | Creative | New ideas, alternatives and lateral possibilities | 'What if we recruited the most sceptical farmer as co-designer?' |
+| Blue | Process | Managing the thinking process itself; metacognition | Facilitator sets the agenda, sequences the hats and summarises |
+
+::: {.callout-tip title="Recommended sequence for critical thinking"}
+1. **White Hat** — establish the factual baseline;
+2. **Yellow Hat** — identify genuine benefits;
+3. **Black Hat** — identify genuine risks;
+4. **Green Hat** — generate creative alternatives that capture the benefits while avoiding the risks;
+5. **Red Hat** — capture gut reactions to the alternatives;
+6. **Blue Hat** — summarise and plan the next steps.
+
+Each round is time-limited to 2–5 minutes to maintain energy and focus.
+:::
+
+### Brainstorming {#sec-brainstorming}
+
+@osborn1953 observed that conventional group meetings suppressed creativity because participants feared criticism and self-censored unconventional ideas. His solution was to separate idea generation from evaluation — suspending judgement to create psychological safety for unconventional thinking. Later research on group creativity has examined the conditions under which such groups actually outperform individuals [see @paulus2003]. The use of brainstorming in decision making is discussed in @sec-brainstorm-dm.
+
+#### Five core principles
+
+1. **Focus:** maintain a clear focus on the specific problem. A brainstorm that drifts loses its generative power.
+2. **Suspended judgement:** no criticism during generation — not even through body language. All ideas are recorded.
+3. **Personal safety:** participants must be confident that expressing a 'silly' idea will not damage their standing.
+4. **Serial discussion:** one person speaks at a time, which ensures that all ideas are heard and that quieter participants contribute.
+5. **Build on ideas:** combine, modify and extend others' contributions. The most valuable ideas in a brainstorm are often hybrids.
+
+#### Three approaches to brainstorming
+
+- **Visioning:** imagine an ideal future unconstrained by current resources. Techniques include the Wish List, the Ideal Scenario and the Time Machine ('It is 2040 and this problem has been brilliantly solved — what did we do?').
+- **Modifying:** systematically examine current practices and ask how each element could be improved within real constraints. Customer utility maps identify pain points at each stage of the user experience.
+- **Experimenting:** combine existing elements in novel ways — 'What if we combined SMS advisory with community listening groups?' This is innovation through recombination rather than radical invention.
+
+## Creativity-based problem-solving techniques {#sec-creativity}
+
+### Lateral thinking {#sec-lateral}
+
+**Lateral thinking** describes a deliberate approach to generating ideas by attacking problems from unexpected angles rather than following the conventional logic of 'vertical thinking' [@debono1970]. Vertical thinking deepens an existing line of reasoning; lateral thinking abandons it in search of a different starting point (@tbl-lateral).
+
+: Vertical and lateral thinking compared {#tbl-lateral .bordered}
+
+| Dimension | Vertical thinking | Lateral thinking |
+|:----------|:------------------|:-----------------|
+| Direction | Deepens and refines an existing approach | Generates alternative approaches and entry points |
+| Judgement | Selective — accepts only what is logically valid | Generative — suspends judgement to explore unconventional possibilities |
+| Best for | Optimising and refining known solutions | Generating novel solutions when known approaches have failed |
+
+### Lateral thinking techniques
+
+- **Random word:** introduce an unrelated, randomly selected word and force connections to the problem. This short-circuits habitual thinking patterns.
+- **Provocative operation (Po):** make a deliberately outrageous statement — 'Po: Farmers should pay for extension services with crops, not money.' The provocation can lead to practical ideas such as value-sharing arrangements.
+- **Reversal:** reverse the problem. 'How do we stop farmers from wanting to attend meetings?' often reveals assumptions that are invisible in the original framing.
+- **Challenge:** systematically question every assumption in the current approach. Why does extension advice have to be delivered by trained agents? Why must training be in person?
+
+### Individual and group problem solving
+
+The strengths and weaknesses of individual and group problem solving are compared in @tbl-ind-group-ps (compare @tbl-ind-group-dm for decision making).
+
+: Individual and group problem solving compared {#tbl-ind-group-ps .bordered}
+
+| Factor | Individual problem solving | Group problem solving |
+|:-------|:---------------------------|:----------------------|
+| Strengths | Speed; freedom from social pressure; depth of focused thinking; avoids groupthink | Diverse knowledge; division of labour; mutual error-correction; greater implementation buy-in |
+| Weaknesses | Limited knowledge base; cognitive blind spots; no correction mechanism | Social pressure toward conformity; dominance by high-status members; coordination costs |
+| Best for | Well-defined technical problems within an individual's expertise | Complex, multi-dimensional problems requiring diverse knowledge; community-accepted solutions |
+
+### Cognitive biases in problem solving {#sec-biases}
+
+Judgement under uncertainty is shaped by systematic biases [@kahneman2011; @tversky1974]. Four are especially relevant to agricultural problem solving:
+
+- **Gambler's fallacy:** the mistaken belief that past random events influence future random events — for example, believing that a drought is 'due' because it has not rained for weeks. Agricultural risk management requires an understanding of statistical independence.
+- **Winner's curse:** the tendency to over-invest in a solution because competitive dynamics create pressure, regardless of whether it is appropriate for local conditions.
+- **Confirmation bias:** attending to evidence that confirms pre-existing beliefs while discounting contrary evidence. An agent convinced that a particular variety is superior will unconsciously filter new information accordingly.
+- **Availability heuristic:** judging the probability of an event by how easily examples come to mind. A dramatic crop failure will seem more likely to recur than the statistics justify.
+
+### Heuristics as problem-solving strategies
+
+Heuristics and related strategies, together with their limitations, are summarised in @tbl-heuristics.
+
+: Heuristics as problem-solving strategies {#tbl-heuristics .bordered}
+
+| Heuristic | Description | Agricultural application | Potential limitation |
+|:----------|:------------|:-------------------------|:---------------------|
+| Trial and error | Systematically try solutions until one works | Testing pest control methods sequentially | Time-consuming; may cause harm during trials |
+| Algorithm | Precise, step-by-step procedure producing the correct result | Soil testing and fertiliser recommendation protocol | Works only for well-defined problems |
+| Working backwards | Start from the desired outcome and identify prior steps | 'To achieve food security by March, what must be planted by October?' | Requires a clear goal specification |
+| Satisficing | Choose the first option meeting minimum acceptable criteria | Recommend the first feasible practice that yields adequate improvement | May miss significantly better solutions |
+
+## Chapter Summary
+
+### Fill in the blanks {.unnumbered}
+
+Answers are given at the end of the chapter.
+
+1. The reflective thinking model was proposed by __________.
+2. Socrates' method of questioning to expose contradictions is called __________.
+3. In the problem space model, actions that transform one state into another are called __________.
+4. The heuristic that always chooses the operator moving most directly toward the goal, but is prone to local optima, is called hill __________.
+5. In the Six Thinking Hats, the __________ hat represents critical thinking about risks.
+6. The lateral thinking technique that makes a deliberately outrageous statement is called the provocative __________.
+7. Believing that a drought is 'due' because it has not rained for weeks is an example of the __________ fallacy.
+
+### Short-answer questions {.unnumbered}
+
+1. Explain the seven steps of Dewey's reflective thinking process.
+2. What does Socratic questioning cultivate? Describe the three-stage dialectical mechanism.
+3. Explain Newell and Simon's problem space model with an agricultural example. What are its critiques?
+4. Describe the Six Thinking Hats and the recommended sequence for critical thinking.
+5. State the five core principles of brainstorming and its three approaches.
+6. Compare vertical and lateral thinking. Describe four lateral thinking techniques.
+7. Explain four cognitive biases relevant to agricultural problem solving.
+
+### Quick revision {.unnumbered}
+
+- Reflective thinking (Dewey) → seven steps from defining the problem to follow-up; cyclical.
+- Socratic model → elenchus; clarify, probe assumptions and evidence, explore implications; contradiction → tension → synthesis.
+- Problem space (Newell and Simon) → initial state, goal state, operators, heuristics; means–end analysis, hill climbing, working backwards.
+- Six Thinking Hats (de Bono) → white, red, black, yellow, green, blue; parallel thinking.
+- Brainstorming (Osborn) → focus, suspended judgement, safety, serial discussion, build on ideas; visioning, modifying, experimenting.
+- Lateral thinking (de Bono) → random word, Po, reversal, challenge.
+- Biases → gambler's fallacy, winner's curse, confirmation bias, availability heuristic.
+
+### Answers to fill in the blanks {.unnumbered}
+
+::: {.answer-key}
+`1.` Dewey `2.` elenchus `3.` operators `4.` climbing `5.` black `6.` operation `7.` gambler's
+:::

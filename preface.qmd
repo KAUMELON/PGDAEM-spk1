@@ -1,0 +1,29 @@
+# About the course {.unnumbered}
+
+*Decision Making and Problem Solving in Extension Organisations* is a course of the Post Graduate Diploma in Agricultural Extension Management (PGDAEM). It equips extension professionals to make sound decisions and to solve the complex, people-centred problems that arise in agricultural extension work.
+
+## Class schedule {.unnumbered}
+
+The correspondence between the chapters of this book and the classes of the course is shown in @tbl-schedule.
+
+: Correspondence between course classes and chapters {#tbl-schedule .bordered}
+
+| Part | Classes | Chapter |
+|:-----|:-------:|:--------|
+| I. Decision making — introduction | 1–3 | @sec-dm Decision making in agriculture and extension organisations |
+| | 4–6 | @sec-cognition Cognition and decision making under certainty, risk and uncertainty |
+| | 7–10 | @sec-group Group decision making and theories of decision making |
+| II. Methodologies for decision making | 11–16 | @sec-methods Methodologies for decision making in extension organisations |
+| III. Problem solving | 27–30 | @sec-ps Problem solving in agriculture and extension organisations |
+| | 31–34 | @sec-psmodels Theories, models and techniques for problem solving |
+| | 35–36 | @sec-stattools Statistical and graphical methods and the E5 framework |
+
+## How the book is organised {.unnumbered}
+
+**Part I (Decision Making)** begins with what a decision is and how decisions are classified on farms and in extension organisations (@sec-dm). It then turns to the mental processes behind decisions and to the rules that apply when outcomes are certain, risky or uncertain (@sec-cognition), and closes with group decision making and the major theories that explain how farmers and organisations actually decide (@sec-group).
+
+**Part II (Methodologies for Decision Making)** describes the practical methods used to structure decisions: decision trees, the Delphi technique, brainstorming, the fishbone diagram, data-driven decision making and decision support systems (@sec-methods).
+
+**Part III (Problem Solving)** defines a problem and examines the problems extension workers face (@sec-ps), presents classic models and organisational and creative techniques for solving them (@sec-psmodels), and ends with the statistical and graphical tools of quality improvement and the E5 framework for organisational problem solving (@sec-stattools).
+
+Several tools, notably brainstorming and the fishbone diagram, appear in both the decision-making and the problem-solving parts. The cross-references in the text point to the section where each is treated in full.
