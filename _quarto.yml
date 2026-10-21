@@ -73,7 +73,7 @@ format:
     include-in-header: table-math-config.html
     include-after-body:
       text: |
-        <script defer src="/pgdaem-spk1/assets/melon-tracker.js" data-book="pgdaem-decision-making"></script>
+        <script defer src="https://kaumelon.github.io/PGDAEM-spk1/assets/melon-tracker.js" data-book="pgdaem-decision-making"></script>
     mainfont: Georgia
     monofont: Fira Code
     highlight-style: arrow
